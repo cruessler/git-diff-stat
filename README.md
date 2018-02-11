@@ -1,4 +1,4 @@
-# git-tree
+# git-diff-stat
 
 git-diff-stat is a small command line utility for exporting git diff history as
 CSV.
